@@ -1,6 +1,5 @@
 from pyrogram import Client, filters
 from pyrogram.types import *
-from pymongo import MongoClient
 import random
 import json
 import img2pdf
