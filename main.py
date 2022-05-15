@@ -48,7 +48,7 @@ async def manga(client, message):
         search = message.command[1]
         limit = "12"
         n = META()
-        mangasearch = f"search"
+        mangasearch = f"{search}"
         y = n.manga_search(mangasearch, limit)
         keyb = []
         for x in y:
