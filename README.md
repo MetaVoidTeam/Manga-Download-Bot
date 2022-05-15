@@ -1,2 +1,3 @@
-# Manga-Download-Bot
-Telegram Manga Download From MetaVoid Api
+# About
+Manga Download PDF Bot From Metavoid API
+
